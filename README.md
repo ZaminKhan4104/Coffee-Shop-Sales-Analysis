@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Sales Analysis
+# ☕ Coffee Shop Sales Analysis Using Excel
 
 This project focuses on analyzing retail sales data from a coffee shop to extract actionable insights that can improve overall performance and help drive data-driven decisions.
 
